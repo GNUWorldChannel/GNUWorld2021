@@ -1,4 +1,5 @@
-# GNUWorld2020
+# GNUWorld2020 - REMEMBER TO FOLLOW #3 pre-requisites on https://github.com/GNUWorldChannel/Installation-guide
+
 gnuworld@ircd:$ wget https://github.com/GNUWorldChannel/GNUWorld2020/blob/master/gnuworld.tar.gz 
 gnuworld@ircd:$ tar -xvf gnuworld.tar.gz 
 gnuworld@ircd:$ cd gnuworld 
