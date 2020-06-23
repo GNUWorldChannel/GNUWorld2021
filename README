@@ -1,6 +1,6 @@
 # GNUWorld2020 - REMEMBER TO FOLLOW #3 pre-requisites (Gnuworld) on https://github.com/GNUWorldChannel/Installation-guide
 
-gnuworld@ircd:$ wget https://github.com/GNUWorldChannel/GNUWorld2020/blob/master/gnuworld.tar.gz 
+gnuworld@ircd:$ wget https://github.com/GNUWorldChannel/GNUWorld2020/raw/master/gnuworld.tar.gz
 gnuworld@ircd:$ tar -xvf gnuworld.tar.gz 
 gnuworld@ircd:$ cd gnuworld 
 gnuworld@ircd:/gnuworld$ chmod +x configure
