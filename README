@@ -4,6 +4,8 @@ go: https://github.com/GNUWorldChannel/PayasOS-20.04.1
 ------------------------------------------------------
 
 # GNUWorld2020 - REMEMBER TO FOLLOW #3 pre-requisites (Gnuworld) on https://github.com/GNUWorldChannel/Installation-guide
+                 cservice-web now is running PHP 7.4 - Please read guide #4 
+       
 
 gnuworld@ircd:$ wget https://github.com/GNUWorldChannel/GNUWorld2020/raw/master/gnuworld.tar.gz
 gnuworld@ircd:$ tar -xvf gnuworld.tar.gz 
