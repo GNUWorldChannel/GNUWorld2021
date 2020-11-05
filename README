@@ -1,3 +1,8 @@
+------------------------------------------------------
+IF YOU WANT a preconfigured VM-IMG with ircu+gnuworld 
+go: https://github.com/GNUWorldChannel/PayasOS-20.04.1
+------------------------------------------------------
+
 # GNUWorld2020 - REMEMBER TO FOLLOW #3 pre-requisites (Gnuworld) on https://github.com/GNUWorldChannel/Installation-guide
 
 gnuworld@ircd:$ wget https://github.com/GNUWorldChannel/GNUWorld2020/raw/master/gnuworld.tar.gz
