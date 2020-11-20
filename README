@@ -1,11 +1,13 @@
 ------------------------------------------------------
 IF YOU WANT a preconfigured VM-IMG with ircu+gnuworld 
 go: https://github.com/GNUWorldChannel/PayasOS-20.04.1
+
+cservice-web now is running PHP 7.4 - Please read guide #4 
 ------------------------------------------------------
 
 # GNUWorld2020 - REMEMBER TO FOLLOW #3 pre-requisites (Gnuworld) on https://github.com/GNUWorldChannel/Installation-guide
-                 cservice-web now is running PHP 7.4 - Please read guide #4 
-       
+
+This gnuworld version is the official one with a preconfiguration to make it simple. 
 
 gnuworld@ircd:$ wget https://github.com/GNUWorldChannel/GNUWorld2020/raw/master/gnuworld.tar.gz
 gnuworld@ircd:$ tar -xvf gnuworld.tar.gz 
