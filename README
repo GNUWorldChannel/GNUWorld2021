@@ -9,7 +9,7 @@ cservice-web now is running PHP 7.4 - Please read guide #4
 
 This gnuworld version is the official one with a preconfiguration to make it simple. 
 
-gnuworld@ircd:$ wget https://github.com/GNUWorldChannel/GNUWorld2020/raw/master/gnuworld.tar.gz
+gnuworld@ircd:$ wget https://github.com/GNUWorldChannel/GNUWorld2021/blob/master/gnuworld_2021.tar.gz
 gnuworld@ircd:$ tar -xvf gnuworld.tar.gz 
 gnuworld@ircd:$ cd gnuworld 
 gnuworld@ircd:/gnuworld$ chmod +x configure
